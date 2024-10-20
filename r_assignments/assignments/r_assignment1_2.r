@@ -13,7 +13,7 @@ paste("Less than: ", num1, " < ", num2, " = ", less_than)
 # Less Than Or Equal To
 less_than_or_equal_to <- num1 <= num2
 paste("Less than or equal to: ",  num1, " <= ", num2, " = ", less_than_or_equal_to)
-
+ 
 # Greater Than
 greater_than <- num1 > num2
 paste("Greater than: ", num1, " > ", num2, " = ", greater_than)
